@@ -3,5 +3,5 @@
 
 ### 命名规则
 > {application}-{profile}.yml 或 {application}-{profile}.properties
-> * application：应用名词
+> * application：应用名称
 > * profile：环境
