@@ -1,6 +1,4 @@
-server:
-  port: 9006
-
-spring:
-  application:
-    name: config-server
+config: 
+  data: 
+    name: zhangsan
+    age: 18
